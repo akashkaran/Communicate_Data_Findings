@@ -1,5 +1,5 @@
-# (Bay Wheels Trip Data Exploration)
-## by (Akash Karan)
+# Bay Wheels Trip Data Exploration
+## by Akash Karan
 
 
 ## Dataset
